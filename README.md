@@ -1,6 +1,6 @@
-# threat_guard
+# MCP-Activity
 
-A new Flutter project.
+A new MCP project.
 
 ## Getting Started
 
